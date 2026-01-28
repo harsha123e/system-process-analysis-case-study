@@ -8,6 +8,7 @@ In large enterprise web applications, defects reported by users or QA teams ofte
 
 This case study analyzes an end-to-end bug management process and proposes improvements to increase operational efficiency, reduce resolution time, and improve system stability.
 
+Note: This case study is based on my experience at Altimetrik validating the Intuit E-Store. It highlights the manual bottlenecks I observed and my proposed strategy for shifting toward a more automated, analyst-led validation process.
 ---
 
 ## 2. Current-State Process (As-Is)
